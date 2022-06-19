@@ -1,7 +1,26 @@
 h1 {
   font-family: "Playfair Display", serif;
+  font-size: 96px;
 }
 
 p {
   font-family: "Poppins", sans-serif;
+}
+
+.hero {
+  background-color: #f9f7fe;
+  text-align: center;
+}
+
+.hero p {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 36px;
+  margin: 0;
+}
+
+.hero h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  font-size: 24px;
 }
