@@ -63,4 +63,13 @@ p {
   .project-description {
     text-align: center;
   }
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 44px;
+  }
+  .hero {
+    padding: 80px 20px;
+  }
 }
