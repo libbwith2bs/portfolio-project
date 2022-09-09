@@ -59,6 +59,20 @@ p {
   padding: 15px 30px;
 }
 
+.btn-branding-small {
+  background: var(--branding-color);
+  border-radius: 4px;
+  color: white;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 12px 20px;
+}
+
+.link-holder {
+  text-align: center;
+  margin-top: 5px;
+}
+
 .child-hero {
   padding: 60px 20px;
 }
